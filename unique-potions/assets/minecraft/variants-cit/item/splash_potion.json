@@ -1,0 +1,15 @@
+{
+	"type": "component_format",
+	"items": "minecraft:splash_potion",
+	"modelPrefix": "item/",
+	"parameters": {
+		"format": "${type}_splash_potion",
+		"variables": {
+			"type": {
+				"componentType": "potion_contents",
+				"nbtPath": ".potion",
+				"transform": "discard_namespace"
+			}
+		}
+	}
+}
