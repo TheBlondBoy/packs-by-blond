@@ -1,0 +1,7 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Aroflux') |
+        ((healthPotion || '') == 'Aro Flux') |
+        ((healthPotion || '') == 'Aro-Flux')
+    "
+}

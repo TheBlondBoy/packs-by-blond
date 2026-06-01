@@ -1,0 +1,6 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Gender Queer') |
+        ((healthPotion || '') == 'Genderqueer')
+    "
+}

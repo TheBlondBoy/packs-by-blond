@@ -1,0 +1,10 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Polyamorous') |
+        ((healthPotion || '') == 'Polyamory') |
+        ((healthPotion || '') == 'Tricolor Polyamorous') |
+        ((healthPotion || '') == 'Tricolor Polyamory') |
+        ((healthPotion || '') == 'New Polyamorous') |
+        ((healthPotion || '') == 'New Polyamory')
+    "
+}

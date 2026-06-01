@@ -1,0 +1,10 @@
+{
+    condition: "
+        ((healthPotion || '') == 'AroAce') |
+        ((healthPotion || '') == 'Aroace') |
+        ((healthPotion || '') == 'Aromantic Asexual') |
+        ((healthPotion || '') == 'AceAro') |
+        ((healthPotion || '') == 'Acearo') |
+        ((healthPotion || '') == 'Asexual Aromantic')
+    "
+}

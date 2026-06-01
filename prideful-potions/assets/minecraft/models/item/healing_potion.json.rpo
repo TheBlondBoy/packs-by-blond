@@ -1,0 +1,6 @@
+{
+    condition: "!((healthPotion || '') == 'Woke') & !((healthPotion || '') == 'W*ke') & !((healthPotion || '') == 'WOKE')",
+    fallback: [
+      "assets/minecraft/models/item/a_woke_potion.json"
+    ]
+}

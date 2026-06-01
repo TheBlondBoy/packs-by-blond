@@ -1,0 +1,12 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Two Spirit') |
+        ((healthPotion || '') == 'Two-Spirit') |
+        ((healthPotion || '') == 'Two-spirit') |
+        ((healthPotion || '') == 'Two Spirited') |
+        ((healthPotion || '') == 'Twospirited') |
+        ((healthPotion || '') == 'TwoSpirited') |
+        ((healthPotion || '') == '2S') |
+        ((healthPotion || '') == '2s')
+    "
+}

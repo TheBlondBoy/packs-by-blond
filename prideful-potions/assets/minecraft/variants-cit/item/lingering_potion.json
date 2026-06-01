@@ -1,0 +1,15 @@
+{
+	"type": "component_format",
+	"items": "minecraft:lingering_potion",
+	"modelPrefix": "item/",
+	"parameters": {
+		"format": "${type}_lingering_potion",
+		"variables": {
+			"type": {
+				"componentType": "potion_contents",
+				"nbtPath": ".potion",
+				"transform": "discard_namespace"
+			}
+		}
+	}
+}

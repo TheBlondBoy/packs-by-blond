@@ -1,0 +1,8 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Grayromantic') |
+        ((healthPotion || '') == 'Greyromantic') |
+        ((healthPotion || '') == 'Grayro') |
+        ((healthPotion || '') == 'Greyro')
+    "
+}

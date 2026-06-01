@@ -1,0 +1,58 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Pride') |
+        ((healthPotion || '') == 'LGBT') |
+        ((healthPotion || '') == 'LGBT+') |
+        ((healthPotion || '') == 'LGBTQ') |
+        ((healthPotion || '') == 'LGBTQ+') |
+        ((healthPotion || '') == 'LGBTQI') |
+        ((healthPotion || '') == 'LGBTQI+') |
+        ((healthPotion || '') == 'LGBTQIA') |
+        ((healthPotion || '') == 'LGBTQIA+') |
+        ((healthPotion || '') == 'LGGBBDTTQQUIAAAAPPP2SNBGVGQGNC+')
+    ",
+    fallback: [
+      "assets/minecraft/textures/item/a_abrosexual_splash_potion.png",
+      "assets/minecraft/textures/item/a_aceflux_splash_potion.png",
+      "assets/minecraft/textures/item/a_achillean_splash_potion.png",
+      "assets/minecraft/textures/item/a_agender_splash_potion.png",
+      "assets/minecraft/textures/item/a_ally_splash_potion.png",
+      "assets/minecraft/textures/item/a_aroace_splash_potion.png",
+      "assets/minecraft/textures/item/a_aroflux_splash_potion.png",
+      "assets/minecraft/textures/item/a_aromantic_splash_potion.png",
+      "assets/minecraft/textures/item/a_asexual_splash_potion.png",
+      "assets/minecraft/textures/item/a_bigender_splash_potion.png",
+      "assets/minecraft/textures/item/a_bisexual_splash_potion.png",
+      "assets/minecraft/textures/item/a_demiboy_splash_potion.png",
+      "assets/minecraft/textures/item/a_demigender_splash_potion.png",
+      "assets/minecraft/textures/item/a_demigirl_splash_potion.png",
+      "assets/minecraft/textures/item/a_demiromantic_splash_potion.png",
+      "assets/minecraft/textures/item/a_demisexual_splash_potion.png",
+      "assets/minecraft/textures/item/a_gay_splash_potion.png",
+      "assets/minecraft/textures/item/a_gender_nonconforming_splash_potion.png",
+      "assets/minecraft/textures/item/a_genderfluid_splash_potion.png",
+      "assets/minecraft/textures/item/a_genderflux_splash_potion.png",
+      "assets/minecraft/textures/item/a_genderpunk_splash_potion.png",
+      "assets/minecraft/textures/item/a_genderqueer_splash_potion.png",
+      "assets/minecraft/textures/item/a_grayromantic_splash_potion.png",
+      "assets/minecraft/textures/item/a_graysexual_splash_potion.png",
+      "assets/minecraft/textures/item/a_intergender_splash_potion.png",
+      "assets/minecraft/textures/item/a_intersex_splash_potion.png",
+      "assets/minecraft/textures/item/a_lesbian_splash_potion.png",
+      "assets/minecraft/textures/item/a_maverique_splash_potion.png",
+      "assets/minecraft/textures/item/a_neutrois_splash_potion.png",
+      "assets/minecraft/textures/item/a_nonbinary_splash_potion.png",
+      "assets/minecraft/textures/item/a_old_polyamorous_splash_potion.png",
+      "assets/minecraft/textures/item/a_omnisexual_splash_potion.png",
+      "assets/minecraft/textures/item/a_pangender_splash_potion.png",
+      "assets/minecraft/textures/item/a_pansexual_splash_potion.png",
+      "assets/minecraft/textures/item/a_polyamorous_splash_potion.png",
+      "assets/minecraft/textures/item/a_polysexual_splash_potion.png",
+      "assets/minecraft/textures/item/a_sapphic_splash_potion.png",
+      "assets/minecraft/textures/item/a_queer_splash_potion.png",
+      "assets/minecraft/textures/item/a_straight_splash_potion.png",
+      "assets/minecraft/textures/item/a_transgender_splash_potion.png",
+      "assets/minecraft/textures/item/a_two_spirit_splash_potion.png",
+      "assets/minecraft/textures/item/a_missingno_splash_potion.png"
+    ]
+}

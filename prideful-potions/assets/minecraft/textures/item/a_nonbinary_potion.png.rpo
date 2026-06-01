@@ -1,0 +1,10 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Non-binary') |
+        ((healthPotion || '') == 'Non-Binary') |
+        ((healthPotion || '') == 'Nonbinary') |
+        ((healthPotion || '') == 'NonBinary') |
+        ((healthPotion || '') == 'Enby') |
+        ((healthPotion || '') == 'NB')
+    "
+}

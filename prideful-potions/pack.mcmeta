@@ -1,0 +1,32 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 64
+    },
+	"min_format": 15,
+	"max_format": 88,
+    "description": "Distinct potions themed after Pride flags!"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "components",
+        "formats": {
+          "min_inclusive": 32,
+          "max_inclusive": 64
+        }
+      },
+      {
+        "directory": "1.21.5-",
+        "formats": {
+          "min_inclusive": 55,
+          "max_inclusive": 88
+        },
+		"min_format": 55,
+		"max_format": 88
+      }
+    ]
+  }
+}

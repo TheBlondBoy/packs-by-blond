@@ -1,0 +1,9 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Gender Nonconforming') |
+        ((healthPotion || '') == 'Gender NonConforming') |
+        ((healthPotion || '') == 'Gender Non Conforming') |
+        ((healthPotion || '') == 'Gender Non-Conforming') |
+        ((healthPotion || '') == 'GNC')
+    "
+}

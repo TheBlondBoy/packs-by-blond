@@ -1,0 +1,6 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Genderpunk') |
+        ((healthPotion || '') == 'Genderfuck')
+    "
+}

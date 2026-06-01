@@ -1,0 +1,11 @@
+{
+    id: "pridefulPotionsByBlond",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+		healthPotion: {
+            type: "string",
+            default: "Pride"
+        }
+    }
+}

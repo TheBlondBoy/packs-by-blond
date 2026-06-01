@@ -1,0 +1,8 @@
+{
+    condition: "
+        ((healthPotion || '') == 'Old Polyamorous') |
+        ((healthPotion || '') == 'Old Polyamory') |
+        ((healthPotion || '') == 'Pi Polyamorous') |
+        ((healthPotion || '') == 'Pi Polyamory')
+    "
+}
