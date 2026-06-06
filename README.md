@@ -7,5 +7,8 @@ Suggestions for mod support are welcome, but I can't guarantee I'll actually add
 __Unique Potions By Blond__: Distinct potions that look kinda cool  
 [Modrinth](https://modrinth.com/resourcepack/unique-potions-by-blond) [CurseForge](https://www.curseforge.com/minecraft/texture-packs/unique-potions-by-blond)
 
+__Prideful Potions By Blond__: Distinct potions themed after Pride flags!  
+[Modrinth](https://modrinth.com/resourcepack/prideful-potions-by-blond) [CurseForge](https://www.curseforge.com/minecraft/texture-packs/prideful-potions-by-blond)
+
 __Rabbit Remodel By Blond__: The classic rabbit design with a new look and feel  
 [Modrinth](https://modrinth.com/resourcepack/rabbit-remodel-by-blond) [CurseForge](https://www.curseforge.com/minecraft/texture-packs/rabbit-remodel-by-blond)
