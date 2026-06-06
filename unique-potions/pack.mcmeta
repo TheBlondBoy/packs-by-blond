@@ -6,7 +6,7 @@
       "max_inclusive": 64
     },
 	"min_format": 15,
-	"max_format": 84,
+	"max_format": 88,
     "description": "Distinct potions that look kinda cool"
   },
   "overlays": {
@@ -22,10 +22,10 @@
         "directory": "1.21.5-",
         "formats": {
           "min_inclusive": 55,
-          "max_inclusive": 84
+          "max_inclusive": 88
         },
 		"min_format": 55,
-		"max_format": 84
+		"max_format": 88
       }
     ]
   }

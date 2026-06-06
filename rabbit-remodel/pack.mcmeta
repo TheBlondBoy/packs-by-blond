@@ -6,7 +6,7 @@
       "max_inclusive": 64
     },
 	"min_format": 15,
-	"max_format": 84,
+	"max_format": 88,
     "description": "The classic rabbit design with a new look and feel"
   },
   "overlays": {
@@ -24,10 +24,10 @@
         "directory": "tiny_takeover",
         "formats": {
           "min_inclusive": 76,
-          "max_inclusive": 84
+          "max_inclusive": 88
         },
 		"min_format": 76,
-		"max_format": 84
+		"max_format": 88
       }
     ]
   }
