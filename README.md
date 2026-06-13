@@ -13,8 +13,8 @@ __Prideful Potions By Blond__: Distinct potions themed after Pride flags!
 __Rabbit Remodel By Blond__: The classic rabbit design with a new look and feel  
 [Modrinth](https://modrinth.com/resourcepack/rabbit-remodel-by-blond) [CurseForge](https://www.curseforge.com/minecraft/texture-packs/rabbit-remodel-by-blond)
 
-__Connected Textures By Blond__: The definitive CTM pack. Maybe 
+__Connected Textures By Blond__: The definitive CTM pack. Maybe  
 [Modrinth](https://modrinth.com/resourcepack/connected-textures-by-blond) [CurseForge](https://www.curseforge.com/minecraft/texture-packs/connected-textures-by-blond)
 
-__Connected Double Slabs By Blond__: Making the double slab block useful! 
+__Connected Double Slabs By Blond__: Making the double slab block useful!  
 [Modrinth](https://modrinth.com/resourcepack/connected-double-slabs-by-blond) [CurseForge](https://www.curseforge.com/minecraft/texture-packs/connected-double-slabs-by-blond)
