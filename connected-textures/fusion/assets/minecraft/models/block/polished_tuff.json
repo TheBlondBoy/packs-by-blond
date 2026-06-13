@@ -1,0 +1,21 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/polished_tuff"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ]
+}

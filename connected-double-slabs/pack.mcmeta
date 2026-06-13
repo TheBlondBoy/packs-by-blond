@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 64
+    },
+	"min_format": 15,
+	"max_format": 88,
+    "description": "Making the double slab block useful!"
+  },
+  "fusion": {
+	"overrides_folder": "fusion"
+  }
+}

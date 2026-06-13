@@ -1,0 +1,20 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/smooth_stone",
+    "side": "minecraft:block/smooth_stone_slab_side",
+    "top": "minecraft:block/smooth_stone"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        }
+      ]
+    }
+  ]
+}

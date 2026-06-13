@@ -1,0 +1,31 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/copper_bulb_powered"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "or",
+          "predicates": [
+            {
+              "type": "match_block",
+              "block": "waxed_copper_bulb"
+            },
+            {
+              "type": "match_block",
+              "block": "copper_bulb"
+            }
+          ]
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ]
+}

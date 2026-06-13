@@ -1,0 +1,22 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/spruce_slab_double_top",
+    "side": "minecraft:block/spruce_slab_double_side"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ]
+}

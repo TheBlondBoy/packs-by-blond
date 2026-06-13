@@ -1,0 +1,23 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/sandstone_top",
+    "side": "minecraft:block/cut_sandstone",
+    "top": "minecraft:block/sandstone_top"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ]
+}

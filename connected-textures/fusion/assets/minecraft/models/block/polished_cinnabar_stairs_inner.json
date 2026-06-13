@@ -1,0 +1,15 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/polished_cinnabar",
+    "side": "minecraft:block/polished_cinnabar",
+    "top": "minecraft:block/polished_cinnabar"
+  },
+  "connections": [
+    {
+      "type": "is_same_block"
+    }
+  ]
+}

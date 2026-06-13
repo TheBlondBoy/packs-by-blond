@@ -1,0 +1,32 @@
+
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/oxidized_copper"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "or",
+          "predicates": [
+            {
+              "type": "match_block",
+              "block": "waxed_oxidized_copper"
+            },
+            {
+              "type": "match_block",
+              "block": "oxidized_copper"
+            }
+          ]
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ]
+}

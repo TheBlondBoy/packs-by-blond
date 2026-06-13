@@ -1,0 +1,15 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/prismarine_brick",
+    "side": "minecraft:block/prismarine_brick",
+    "top": "minecraft:block/prismarine_brick"
+  },
+  "connections": [
+    {
+      "type": "is_same_block"
+    }
+  ]
+}

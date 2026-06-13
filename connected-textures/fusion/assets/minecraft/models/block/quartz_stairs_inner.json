@@ -1,0 +1,15 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/quartz",
+    "side": "minecraft:block/quartz",
+    "top": "minecraft:block/quartz"
+  },
+  "connections": [
+    {
+      "type": "is_same_block"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/oxidized_cut_copper_slab_double"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        }
+      ]
+    }
+  ]
+}

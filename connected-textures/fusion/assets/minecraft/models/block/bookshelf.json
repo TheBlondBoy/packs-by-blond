@@ -1,0 +1,19 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/oak_planks",
+    "side": "minecraft:block/bookshelf"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_block"
+        }
+      ]
+    }
+  ]
+}

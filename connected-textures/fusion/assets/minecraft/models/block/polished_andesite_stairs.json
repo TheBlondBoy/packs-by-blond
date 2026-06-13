@@ -1,0 +1,15 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "minecraft:block/polished_andesite",
+    "side": "minecraft:block/polished_andesite",
+    "top": "minecraft:block/polished_andesite"
+  },
+  "connections": [
+    {
+      "type": "is_same_block"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "minecraft:block/polished_cinnabar"
+  },
+  "connections": [
+    {
+      "type": "is_same_block"
+    }
+  ]
+}

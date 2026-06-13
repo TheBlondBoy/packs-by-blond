@@ -1,0 +1,31 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/copper_grate"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "or",
+          "predicates": [
+            {
+              "type": "match_block",
+              "block": "waxed_copper_grate"
+            },
+            {
+              "type": "match_block",
+              "block": "copper_grate"
+            }
+          ]
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ]
+}

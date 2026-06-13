@@ -1,0 +1,18 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "minecraft:block/red_sandstone"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        }
+      ]
+    }
+  ]
+}

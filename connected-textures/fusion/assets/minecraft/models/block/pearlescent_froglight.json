@@ -1,0 +1,22 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/pearlescent_froglight_top",
+    "side": "minecraft:block/pearlescent_froglight_side"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ]
+}

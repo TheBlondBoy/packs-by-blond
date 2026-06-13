@@ -1,0 +1,20 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "minecraft:block/sandstone_bottom",
+    "side": "minecraft:block/sandstone",
+    "top": "minecraft:block/sandstone_top"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        }
+      ]
+    }
+  ]
+}

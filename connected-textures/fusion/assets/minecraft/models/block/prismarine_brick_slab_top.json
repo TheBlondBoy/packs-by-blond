@@ -1,0 +1,20 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minecraft:block/prismarine_brick",
+    "side": "minecraft:block/prismarine_brick_slab_side",
+    "top": "minecraft:block/prismarine_brick"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        }
+      ]
+    }
+  ]
+}

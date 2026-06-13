@@ -1,0 +1,32 @@
+
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/exposed_chiseled_copper"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "or",
+          "predicates": [
+            {
+              "type": "match_block",
+              "block": "waxed_exposed_chiseled_copper"
+            },
+            {
+              "type": "match_block",
+              "block": "exposed_chiseled_copper"
+            }
+          ]
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ]
+}

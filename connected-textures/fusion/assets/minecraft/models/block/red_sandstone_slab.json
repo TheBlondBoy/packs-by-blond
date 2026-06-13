@@ -1,0 +1,20 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/red_sandstone_bottom",
+    "side": "minecraft:block/red_sandstone_slab_side",
+    "top": "minecraft:block/red_sandstone_top"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_state"
+        }
+      ]
+    }
+  ]
+}
