@@ -22,9 +22,6 @@
               "block": "exposed_chiseled_copper"
             }
           ]
-        },
-        {
-          "type": "is_face_visible"
         }
       ]
     }

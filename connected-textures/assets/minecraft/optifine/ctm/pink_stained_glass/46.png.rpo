@@ -1,0 +1,4 @@
+{
+  "condition": "!clearerStainedGlass",
+  "fallback": "assets/minecraft/optifine/ctm/pink_stained_glass/46_clear.png"
+}

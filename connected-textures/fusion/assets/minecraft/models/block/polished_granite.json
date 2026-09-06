@@ -11,9 +11,6 @@
       "predicates": [
         {
           "type": "is_same_state"
-        },
-        {
-          "type": "is_face_visible"
         }
       ]
     }

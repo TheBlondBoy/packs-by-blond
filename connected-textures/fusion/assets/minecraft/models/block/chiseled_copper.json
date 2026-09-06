@@ -21,9 +21,6 @@
               "block": "chiseled_copper"
             }
           ]
-        },
-        {
-          "type": "is_face_visible"
         }
       ]
     }

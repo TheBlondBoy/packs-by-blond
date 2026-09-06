@@ -1,0 +1,19 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "minecraft:block/brown_stained_glass_pane_top",
+    "pane": "minecraft:block/brown_stained_glass"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_block"
+        }
+      ]
+    }
+  ]
+}

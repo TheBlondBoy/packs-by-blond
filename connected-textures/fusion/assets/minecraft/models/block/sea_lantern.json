@@ -11,9 +11,6 @@
       "predicates": [
         {
           "type": "is_same_block"
-        },
-        {
-          "type": "is_face_visible"
         }
       ]
     }

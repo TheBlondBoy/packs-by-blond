@@ -1,0 +1,18 @@
+{
+  "loader": "fusion:model",
+  "type": "fusion:connecting",
+  "parent": "minecraft:block/template_glass_pane_noside",
+  "textures": {
+    "pane": "minecraft:block/gray_stained_glass"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "is_same_block"
+        }
+      ]
+    }
+  ]
+}

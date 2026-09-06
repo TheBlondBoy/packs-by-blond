@@ -1,0 +1,4 @@
+{
+  "condition": "!clearerGlass",
+  "fallback": "assets/minecraft/textures/block/glass_clear.png"
+}

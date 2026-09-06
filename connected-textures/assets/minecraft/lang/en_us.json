@@ -1,0 +1,9 @@
+{
+  "rpo.connectedTexturesByBlond": "Connected Textures by Blond",
+  "rpo.connectedTexturesByBlond.clearerGlass":  "Clearer Glass",
+  "rpo.connectedTexturesByBlond.clearerGlass.tooltip":  "Removes most of the scratches from glass.",
+  "rpo.connectedTexturesByBlond.clearerStainedGlass":  "Clearer Stained Glass",
+  "rpo.connectedTexturesByBlond.clearerStainedGlass.tooltip":  "Removes most of the scratches from stained glass.",
+  "rpo.connectedTexturesByBlond.clearerTintedGlass":  "Clearer Tinted Glass",
+  "rpo.connectedTexturesByBlond.clearerTintedGlass.tooltip":  "Removes the scratches from tinted glass."
+}

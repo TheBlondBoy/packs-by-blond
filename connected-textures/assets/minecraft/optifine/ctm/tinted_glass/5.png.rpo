@@ -1,0 +1,4 @@
+{
+  "condition": "clearerTintedGlass",
+  "fallback": "assets/minecraft/optifine/ctm/tinted_glass/5_clear.png"
+}

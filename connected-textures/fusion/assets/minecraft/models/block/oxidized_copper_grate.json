@@ -22,9 +22,6 @@
               "block": "oxidized_copper_grate"
             }
           ]
-        },
-        {
-          "type": "is_face_visible"
         }
       ]
     }

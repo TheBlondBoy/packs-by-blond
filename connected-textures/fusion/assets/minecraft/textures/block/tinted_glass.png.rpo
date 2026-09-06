@@ -1,0 +1,4 @@
+{
+  "condition": "clearerTintedGlass",
+  "fallback": "assets/minecraft/textures/block/tinted_glass_clear.png"
+}

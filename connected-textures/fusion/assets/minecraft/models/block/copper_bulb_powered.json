@@ -21,9 +21,6 @@
               "block": "copper_bulb"
             }
           ]
-        },
-        {
-          "type": "is_face_visible"
         }
       ]
     }

@@ -21,9 +21,6 @@
               "block": "weathered_copper_bulb"
             }
           ]
-        },
-        {
-          "type": "is_face_visible"
         }
       ]
     }

@@ -1,0 +1,10 @@
+{
+  id: "connectedTexturesByBlond",
+  version: 13,
+  capabilities: ["FileFilter", "DirFilter"],
+  conf: {
+    clearerGlass: false,
+    clearerStainedGlass: false,
+    clearerTintedGlass: true
+  }
+}
