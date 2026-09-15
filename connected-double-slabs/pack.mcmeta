@@ -6,8 +6,8 @@
       "max_inclusive": 64
     },
 	"min_format": 15,
-	"max_format": 88,
-    "description": "Making the double slab block useful!"
+	"max_format": 97,
+    "description": "Making the double slab block useful with CTM!"
   },
   "fusion": {
 	"overrides_folder": "fusion"
